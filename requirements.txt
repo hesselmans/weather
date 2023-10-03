@@ -3,7 +3,6 @@ aiofiles @ file:///croot/aiofiles_1683773582346/work
 aiohttp @ file:///croot/aiohttp_1694181079612/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 aiosqlite @ file:///croot/aiosqlite_1683773899903/work
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair @ file:///croot/altair_1687526041770/work
 anaconda-anon-usage @ file:///croot/anaconda-anon-usage_1695640106262/work
 anaconda-client @ file:///croot/anaconda-client_1694625250883/work
